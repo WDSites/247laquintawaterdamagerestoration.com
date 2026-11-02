@@ -212,7 +212,7 @@ article.body a{font-weight:600}
 
 /* footer */
 .sitefooter{background:#fff;border-top:1px solid var(--line);padding:52px 0 40px;font-size:15px}
-.sitefooter .wrap{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:32px}
+.sitefooter .wrap{display:grid;grid-template-columns:1.5fr 1fr 1fr .9fr .9fr;gap:28px}
 .sitefooter h2{font-size:15px;margin-bottom:12px;letter-spacing:.02em}
 .sitefooter a{color:var(--ink-soft);text-decoration:none;display:block;margin-bottom:7px}
 .sitefooter a:hover{color:var(--copper-deep)}
